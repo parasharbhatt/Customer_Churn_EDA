@@ -3,3 +3,7 @@ archieve/
 .venv/
 .vscode/
 __pycache__/
+.ipynb_checkpoints/
+Telco Customer Churn Source Data Profiling Report.html
+
+
