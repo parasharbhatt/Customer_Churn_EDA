@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ced8823-50fb-4231-9b6d-3514235ce4c1" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/Customer_Churn_EDA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archieve/Customer Churn.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archieve/TCA.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archieve/Teco Customer Churn Analysys.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archieve/WA_Fn-UseC_-Telco-Customer-Churn.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archieve/telecom-churn-prediction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archieve/url_of_dataset.txt" afterDir="false" />
-    </list>
+    <list default="true" id="7ced8823-50fb-4231-9b6d-3514235ce4c1" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
